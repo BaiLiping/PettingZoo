@@ -10,3 +10,4 @@ hanabi_learning_environment==0.0.1
 multi_agent_ale_py==0.1.10
 magent==0.1.13
 pyglet>=1.4.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
